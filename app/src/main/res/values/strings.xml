@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#000000</color>
-    <color name="cyan">#5ED9FF</color>
+    <string name="app_name">AR22</string>
 </resources>
