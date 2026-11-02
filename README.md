@@ -1,2 +1,6 @@
-# dual-speedometer-gauge-hobby
-Android dual gauge app based on the speedometer hobby project with RPM and speed meters
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DualGaugeApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>
